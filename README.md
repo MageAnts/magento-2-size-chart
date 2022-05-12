@@ -2,11 +2,11 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Size Chart Extension</h2>
+				<h1>Magento 2 Size Chart Extension</h1>
         	<p>Using Magento 2 Size Chart EXtension, the store owner can update the website with proper size charts to help customers in product selection.</p>
 				<p><strong><a href="https://www.mageants.com/size-chart-extension-for-magento-2.html">Magento 2 Size Chart Extension</a></strong> is one of the best tools that help both the store owner and customers find the perfect availability of the store. The solution is beneficial as customers can quickly calculate the size and choose the perfect product for their needs.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Allows displaying the size chart in image form.</li>
 						<li>Having a size advisor that helps the customer to get proper guidance for their size.</li>
